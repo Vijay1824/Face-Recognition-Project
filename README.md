@@ -24,7 +24,7 @@ This **Face Recognition Attendance System** leverages **the ArcFace model for fa
 
 ## About ArcFace
 
-ArcFace is a highly efficient deep learning-based face recognition model that enhances the discriminative power by using an additive angular margin loss. It provides robust and accurate face verification and identification, making it suitable for real-world attendance systems.
+ArcFace is a powerful deep learning-based face recognition model that improves accuracy by applying an additive angular margin loss, enhancing its ability to distinguish between faces. Its robustness and precision make it ideal for real-world applications like attendance tracking systems.
 
 ## Prerequisites
 
